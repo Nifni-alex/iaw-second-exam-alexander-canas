@@ -21,7 +21,7 @@ describe('Test getAllItemsHandler', () => {
         }); 
  
         const event = { 
-            httpMethod: 'PUT' 
+            httpMethod: 'POST' 
         };
  
         // Invoke helloFromLambdaHandler() 
